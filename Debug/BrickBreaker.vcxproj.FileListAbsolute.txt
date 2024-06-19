@@ -1,0 +1,7 @@
+X:\BrickBreaker\BrickBreaker\Debug\BrickBreaker.exe
+X:\BrickBreaker\BrickBreaker\Debug\BrickBreaker.pdb
+C:\Users\DELL\Desktop\BrickBreaker\BrickBreaker\Debug\BrickBreaker.exe
+C:\Users\DELL\Desktop\My_Projects\BrickBreaker\BrickBreaker\Debug\BrickBreaker.exe
+C:\Users\DELL\Desktop\My_Projects\old\BrickBreaker\BrickBreaker\Debug\BrickBreaker.exe
+C:\Users\DELL\Desktop\My_Projects\projects of First Year\old\BrickBreaker\BrickBreaker\Debug\BrickBreaker.exe
+F:\Years_of_University\My_Projects\projects of First Year\BrickBreaker\BrickBreaker\Debug\BrickBreaker.exe

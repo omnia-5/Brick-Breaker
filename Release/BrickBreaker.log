@@ -1,0 +1,30 @@
+﻿  Main.cpp
+X:\BrickBreaker\BrickBreaker\Main.cpp(232,27): warning C4018: '<': signed/unsigned mismatch
+X:\BrickBreaker\BrickBreaker\Main.cpp(233,31): warning C4018: '<': signed/unsigned mismatch
+X:\BrickBreaker\BrickBreaker\Main.cpp(244,27): warning C4018: '<': signed/unsigned mismatch
+X:\BrickBreaker\BrickBreaker\Main.cpp(245,31): warning C4018: '<': signed/unsigned mismatch
+  Vector.cpp
+X:\BrickBreaker\BrickBreaker\source\utils\Vector.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+Main.obj : error LNK2001: unresolved external symbol "public: virtual char & __thiscall Vector<char>::operator[](int)" (??A?$Vector@D@@UAEAADH@Z)
+Main.obj : error LNK2001: unresolved external symbol "public: void __thiscall Vector<char>::clear(void)" (?clear@?$Vector@D@@QAEXXZ)
+Main.obj : error LNK2001: unresolved external symbol "public: void __thiscall Vector<char>::push_back(char)" (?push_back@?$Vector@D@@QAEXD@Z)
+Main.obj : error LNK2001: unresolved external symbol "public: __thiscall Vector<char>::~Vector<char>(void)" (??1?$Vector@D@@QAE@XZ)
+Main.obj : error LNK2001: unresolved external symbol "public: __thiscall Vector<char>::Vector<char>(void)" (??0?$Vector@D@@QAE@XZ)
+Main.obj : error LNK2001: unresolved external symbol "public: void __thiscall Vector<struct Vector<char> >::push_back(struct Vector<char>)" (?push_back@?$Vector@U?$Vector@D@@@@QAEXU?$Vector@D@@@Z)
+Main.obj : error LNK2001: unresolved external symbol "public: __thiscall Vector<struct Vector<char> >::~Vector<struct Vector<char> >(void)" (??1?$Vector@U?$Vector@D@@@@QAE@XZ)
+Main.obj : error LNK2001: unresolved external symbol "public: __thiscall Vector<struct Vector<char> >::Vector<struct Vector<char> >(void)" (??0?$Vector@U?$Vector@D@@@@QAE@XZ)
+Main.obj : error LNK2001: unresolved external symbol "public: virtual struct EditableBrick * & __thiscall Vector<struct EditableBrick *>::operator[](int)" (??A?$Vector@PAUEditableBrick@@@@UAEAAPAUEditableBrick@@H@Z)
+Main.obj : error LNK2001: unresolved external symbol "public: unsigned int __thiscall Vector<struct EditableBrick *>::size(void)" (?size@?$Vector@PAUEditableBrick@@@@QAEIXZ)
+Main.obj : error LNK2001: unresolved external symbol "public: void __thiscall Vector<struct EditableBrick *>::clear(void)" (?clear@?$Vector@PAUEditableBrick@@@@QAEXXZ)
+Main.obj : error LNK2001: unresolved external symbol "public: void __thiscall Vector<struct EditableBrick *>::push_back(struct EditableBrick *)" (?push_back@?$Vector@PAUEditableBrick@@@@QAEXPAUEditableBrick@@@Z)
+Main.obj : error LNK2001: unresolved external symbol "public: __thiscall Vector<struct EditableBrick *>::~Vector<struct EditableBrick *>(void)" (??1?$Vector@PAUEditableBrick@@@@QAE@XZ)
+Main.obj : error LNK2001: unresolved external symbol "public: __thiscall Vector<struct EditableBrick *>::Vector<struct EditableBrick *>(void)" (??0?$Vector@PAUEditableBrick@@@@QAE@XZ)
+Main.obj : error LNK2001: unresolved external symbol "public: unsigned int __thiscall Vector<struct Vector<struct EditableBrick *> >::size(void)" (?size@?$Vector@U?$Vector@PAUEditableBrick@@@@@@QAEIXZ)
+Main.obj : error LNK2001: unresolved external symbol "public: void __thiscall Vector<struct Vector<struct EditableBrick *> >::push_back(struct Vector<struct EditableBrick *>)" (?push_back@?$Vector@U?$Vector@PAUEditableBrick@@@@@@QAEXU?$Vector@PAUEditableBrick@@@@@Z)
+Main.obj : error LNK2001: unresolved external symbol "public: __thiscall Vector<struct Vector<struct EditableBrick *> >::~Vector<struct Vector<struct EditableBrick *> >(void)" (??1?$Vector@U?$Vector@PAUEditableBrick@@@@@@QAE@XZ)
+Main.obj : error LNK2001: unresolved external symbol "public: __thiscall Vector<struct Vector<struct EditableBrick *> >::Vector<struct Vector<struct EditableBrick *> >(void)" (??0?$Vector@U?$Vector@PAUEditableBrick@@@@@@QAE@XZ)
+Main.obj : error LNK2001: unresolved external symbol "public: unsigned int __thiscall Vector<struct Brick *>::size(void)" (?size@?$Vector@PAUBrick@@@@QAEIXZ)
+Main.obj : error LNK2001: unresolved external symbol "public: void __thiscall Vector<struct Brick *>::push_back(struct Brick *)" (?push_back@?$Vector@PAUBrick@@@@QAEXPAUBrick@@@Z)
+Main.obj : error LNK2001: unresolved external symbol "public: __thiscall Vector<struct Brick *>::~Vector<struct Brick *>(void)" (??1?$Vector@PAUBrick@@@@QAE@XZ)
+Main.obj : error LNK2001: unresolved external symbol "public: __thiscall Vector<struct Brick *>::Vector<struct Brick *>(void)" (??0?$Vector@PAUBrick@@@@QAE@XZ)
+X:\BrickBreaker\BrickBreaker\Release\BrickBreaker.exe : fatal error LNK1120: 22 unresolved externals

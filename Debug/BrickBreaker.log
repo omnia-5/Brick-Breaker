@@ -1,0 +1,13 @@
+﻿  Main.cpp
+  AnimatedTitle.cpp
+  Ball.cpp
+  BoundingBox.cpp
+  Brick.cpp
+  Button.cpp
+  SoundManager.cpp
+  Storage.cpp
+  TimeManager.cpp
+  Rectangle.cpp
+  Generating Code...
+F:\Years_of_University\My_Projects\projects of First Year\BrickBreaker\BrickBreaker\headers\TextEffect.h(21): warning C4715: 'getColor': not all control paths return a value
+  BrickBreaker.vcxproj -> F:\Years_of_University\My_Projects\projects of First Year\BrickBreaker\BrickBreaker\Debug\BrickBreaker.exe
